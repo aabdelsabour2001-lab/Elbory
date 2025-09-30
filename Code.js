@@ -1,4 +1,4 @@
-var url = 'https://script.google.com/macros/s/AKfycbxaO0FeTWqjh__OHUMc7JhPsMX3N0fb2Saen0MCKijLC6OheJbRpmaxQ0rYfV60-glm/exec'
+
 const SHEET_EMPLOYEES = "Employees";
 const SHEET_ATTENDANCE = "Attendance";
 
