@@ -1,1 +1,1 @@
-Elbory
+npm install -g @google/clasp
